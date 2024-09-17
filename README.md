@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/warbee0712/warbee0712/blob/main/name.svg" alt="Marton Lederer" />
 </h1>
-<h3 align="center">WordPress | <a href='https://reactjs.org'>React</a> | Vue | Angular | Javascript Framework</h3>
+<h3 align="center">MERN | <a href='https://reactjs.org'>Golang</a> | Java | Python | C#/.NET Framework</h3>
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
