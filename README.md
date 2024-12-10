@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/warbee0712/warbee0712/blob/main/name.svg" alt="Marton Lederer" />
 </h1>
-<h3 align="center"> Blockchain | Web3 | MERN | <a href='https://reactjs.org'>Golang</a> | Rust | Java | Python | C#/.NET Framework</h3>
+<h3 align="center"> MERN | <a href='https://reactjs.org'>Golang</a> | Rust | Java | Python | C#/.NET Framework | Web3</h3>
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
